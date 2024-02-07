@@ -1,0 +1,5 @@
+# example schema
+table users
+user_id *
+email_address varchar(1024)
+user_name varchar(128)

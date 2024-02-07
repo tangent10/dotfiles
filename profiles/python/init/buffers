@@ -1,0 +1,10 @@
+
+# create config map with values for reckon-discover-uri and reckon-fetch-uri
+   1 app.py
+   3 lib.py
+   4 run.sh
+   5 serve.sh
+   6 server.py
+   7 test.sh
+   8 tests.py
+   9 buffers
